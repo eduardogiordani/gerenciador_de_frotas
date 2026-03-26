@@ -8,6 +8,7 @@ class Veiculo {
   String placa;
   bool ativo;
 
+
   Veiculo({
     required this.id,
     required this.nome,
